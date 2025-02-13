@@ -1,7 +1,7 @@
 # Nome do Projeto
 
 Uma breve e interessante descrição do seu projeto. O que ele faz e por que é útil.
-
+---
 ## Sumário
 
 * [Sobre mim](#sobre-mim)
@@ -10,16 +10,16 @@ Uma breve e interessante descrição do seu projeto. O que ele faz e por que é 
 * [Instalação](#instalação)
 * [Contribuição](#contribuição)
 * [Licença](#licença)
-
+---
 ### Sobre mim
 - Eu
-
+---
 ### Habilidades
 
 * Funcionalidade 1
 * Funcionalidade 2
 * Funcionalidade 3
-
+---
 ### Tecnologias utilizadas
 
 * Linguagem de programação: [Nome da Linguagem](link-para-a-documentação)
