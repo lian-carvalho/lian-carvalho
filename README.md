@@ -1,5 +1,4 @@
 # Nome do Projeto
-
 Uma breve e interessante descrição do seu projeto. O que ele faz e por que é útil.
 
 ## Sumário
