@@ -11,16 +11,16 @@ Uma breve e interessante descrição do seu projeto. O que ele faz e por que é 
 * [Contribuição](#contribuição)
 * [Licença](#licença)
 
-# Sobre mim
+### Sobre mim
 - Eu
 
-# Habilidades
+### Habilidades
 
 * Funcionalidade 1
 * Funcionalidade 2
 * Funcionalidade 3
 
-# Tecnologias utilizadas
+### Tecnologias utilizadas
 
 * Linguagem de programação: [Nome da Linguagem](link-para-a-documentação)
 * Framework: [Nome do Framework](link-para-a-documentação)
