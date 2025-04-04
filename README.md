@@ -23,11 +23,11 @@ Olá! Eu sou **Lian Carvalho**, um **web designer** e **desenvolvedor fullstack*
 
 ---
 
-### ⚡ Frameworks e Ferramentas:  
-- ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) **[React](https://react.dev/)**  
-- ![Next.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg) **[Next.js](https://nextjs.org/)**  
-- ![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg) **[Django](https://www.djangoproject.com/)**  
-- ![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) **[Figma](https://www.figma.com/)**  
-- ![CapCut](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CapCut_Logo.svg/512px-CapCut_Logo.svg.png) **CapCut**  
-
----
+### ⚡ Frameworks e Ferramentas:
+<ul>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"> <strong><a href="https://react.dev/">React</a></strong></li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20"> <strong><a href="https://nextjs.org/">Next.js</a></strong></li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="20"> <strong><a href="https://www.djangoproject.com/">Django</a></strong></li>
+  <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20"> <strong><a href="https://www.figma.com/">Figma</a></strong></li>
+  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CapCut_Logo.svg/512px-CapCut_Logo.svg.png" width="20"> <strong>CapCut</strong></li>
+</ul>
