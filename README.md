@@ -29,5 +29,4 @@ Olá! Eu sou **Lian Carvalho**, um **web designer** e **desenvolvedor fullstack*
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20"> <strong><a href="https://nextjs.org/">Next.js</a></strong></li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="20"> <strong><a href="https://www.djangoproject.com/">Django</a></strong></li>
   <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="20"> <strong><a href="https://www.figma.com/">Figma</a></strong></li>
-  <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/CapCut_Logo.svg/512px-CapCut_Logo.svg.png" width="20"> <strong>CapCut</strong></li>
 </ul>
